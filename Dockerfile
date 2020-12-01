@@ -6,4 +6,4 @@ FROM busybox:latest
 # Author: Dr. Peter
 MAINTAINER Dr. Peter <peterindia@gmail.com>
 # Set command for CMD
-CMD ["echo", "Dockerfile CMD demo CHANGED"]
+CMD ["echo", "Dockerfile CMD demo CHANGED 20201201"]
